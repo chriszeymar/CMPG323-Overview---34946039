@@ -31,4 +31,8 @@ Each project submission will consist of mainly **3 branches: main, dev and hot**
 **hotFix:** Later recalibration of systems is tested/
 implemted through a hot fix branch
 
+#**git credentials**
 
+GCM(git credential manger) is the way wwe will usr to store credentials securely and connect to GitHub over HTTPS. With GCM, We don't have to manually create and store a PAT, as GCM manages authentication on your behalf, including 2FA (two-factor authentication).
+
+**gitmore files**
