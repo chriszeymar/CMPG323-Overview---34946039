@@ -16,11 +16,11 @@ Project 5| |
 
 #**Repository**
 
-The overall repository will serve as the foundation of the project and will contain most of the project administration info. The development approach requires that each project is comprised in its own repository. A repository will be created for eacvh project submission to satisfy development agility.
+The overall repository will serve as the foundation of the project and will contain most of the project administration info. The development approach requires that each project is comprised in its own repository. A repository will be created for each project submission to satisfy development agility.
 
 #**Branching:**
 
-Along with the overall repository, an initial main branch is created. It will serve as the parent node. Each project submission will be a sub-branch to this and a central node in its independent devoplopment.
+Along with the overall repository, an initial main branch is created. It will serve as the parent node. Each project submission will be a sub-branch to this and a central node in its independent devoplopment. **5 sub-branches** to account for each submssion. The project will contain their own autonomous branching submission as explained below.
 
 Each project submission will consist of mainly **3 branches: main, dev and hot** 
 
@@ -36,3 +36,5 @@ implemted through a hot fix branch
 GCM(git credential manger) is the way wwe will usr to store credentials securely and connect to GitHub over HTTPS. With GCM, We don't have to manually create and store a PAT, as GCM manages authentication on your behalf, including 2FA (two-factor authentication).
 
 **gitmore files**
+
+.gitignore files would be used in implentation of source control to avoid certain updates. Completely experimental features would remain excluded unitl it is tested in hotfix and devOps sequentially in their respective submission repository before inclusion can be considered. This is implemented through gitmore. Project 1 excludes this due to simplicity in code design then further in more complex structure as in project 2 C++. This would come in handy to avoid automated additions.
