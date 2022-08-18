@@ -39,4 +39,4 @@ GCM(git credential manger) is the way wwe will usr to store credentials securely
 
 **gitmore files**
 
-.gitignore files would be used in implentation of source control to avoid certain updates. Completely experimental features would remain excluded unitl it is tested in hotfix and devOps sequentially in their respective submission repository before inclusion can be considered. This is implemented through gitmore. Project 1 excludes this due to simplicity in code design then further in more complex structure as in project 2 C++. This would come in handy to avoid automated additions.
+.gitignore files would be used in implentation of source control to avoid certain updates. Completely experimental features would remain excluded unitl it is tested in hotfix and devOps sequentially in their respective submission repository before inclusion can be considered. This is implemented through gitmore. Project 1 excludes this due to simplicity in code design then further in more complex structure as in project 2 C++. This would come in handy to avoid automated additions
