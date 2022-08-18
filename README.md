@@ -31,7 +31,7 @@ Each project submission will consist of mainly **3 branches: main, dev and hot**
 **hotFix:** Later recalibration of systems is tested/
 implemted through a hot fix branch
 
-**See diagram: ** ![alt text] (https://github.com/chriszeymar/DrivingCost---Project-Submission-1/blob/DevOps/diagram323_34946039_Overview.png)
+**See diagram:** https://github.com/chriszeymar/CMPG323-Overview---34946039/blob/main/diagram323_34946039_Overview.png
 
 #**git credentials**
 
