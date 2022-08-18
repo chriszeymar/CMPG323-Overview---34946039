@@ -20,7 +20,7 @@ The overall repository will serve as the foundation of the project and will cont
 
 #**Branching:**
 
-Along with the overall repository, an initial main branch is created. It will serve as the parent node. Each project submission will be a sub-branch to this and a central node in its independent devoplopment. **5 sub-branches** to account for each submssion. The project will contain their own autonomous branching submission as explained below.
+Along with the overall repository, an initial main branch is created. It will serve as the parent node. Each project submission will be a sort of a sub branch to this and a central node in its independent devoplopment.The project will contain their own autonomous branching submission as explained below.
 
 Each project submission will consist of mainly **3 branches: main, dev and hot** 
 
