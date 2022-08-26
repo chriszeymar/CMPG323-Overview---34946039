@@ -9,7 +9,7 @@ The following schedule has been established:
 |Description       |Content            |Tech             |
 |------------------|-------------------|-----------------|
 Project 1|Banking system|JAVA OOP
-Project 2|Truck4Hire|C++
+Project 2|API Development|.NET
 Project 3| |  
 Project 4| |  
 Project 5| |  
