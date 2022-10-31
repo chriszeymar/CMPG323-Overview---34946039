@@ -11,8 +11,8 @@ The following schedule has been established:
 Project 1|Banking system|JAVA OOP
 Project 2|API Development|.NET
 Project 3|WebAPP | .NET
-Project 4| |  
-Project 5| |  
+Project 4| Robotic Proccess | Automation|  
+Project 5| Reporting | Power BI  
 
 #**Repository**
 
